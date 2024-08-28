@@ -6,20 +6,6 @@
     <title>Loader</title>
 </head>
 <body>
-    <script id="customScript" src="https://insecurly.github.io/cdn/script.js" disabled></script>
-
-    <script>
-        window.onload = function() {
-            if (window.location.protocol === "file:") {
-                document.getElementById("customScript").disabled = false;
-            } else {
-                if (window.location.href === "https://insecurly.github.io/cdn/") {
-                    var h1 = document.createElement("h1");
-                    h1.textContent = "Please download this HTML page to your Chromebook and use it from there. It will only run locally. Further instructions may be found on the GitHub repo.";
-                    document.body.appendChild(h1);
-                }
-            }
-        };
-    </script>
+    <script src="https://insecurly.github.io/cdn/script.js"></script>
 </body>
 </html>
