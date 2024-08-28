@@ -1,5 +1,5 @@
 ## Insecurly
-
+---
 ### Overview
 Insecurly is a locally run JavaScript-based webpage designed to bypass monitoring methods like Securly. It provides a safe and virtually unblockable environment for activities such as playing games and watching YouTube.
 
@@ -26,4 +26,4 @@ Insecurly is a locally run JavaScript-based webpage designed to bypass monitorin
 
 ---
 
-This version aims to clarify usage instructions, emphasize safety and privacy, and provide a structured format for easy readability.
+
