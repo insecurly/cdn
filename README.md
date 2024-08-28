@@ -1,6 +1,11 @@
 ## JS based locally run webpage which specializes in bypassing securly's monitoring methods. Insecurly aims to provide a safe and virtually unblockable place to play games, watch youtube, and more. (with no chance of being caught if used correctly)
 
 ## Usage:
+
+# Method 1 (website):
+- Go to https://insecurly.github.io/cdn and follow the instructions there
+
+# Method 2 (if the website is blocked):
 - [![Download index.html](https://img.shields.io/badge/Download-index.html-brightgreen)](https://raw.githubusercontent.com/insecurly/cdn/main/index.html) to your chromebook
 - Save it to your downloads folder
 - Open it
