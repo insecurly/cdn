@@ -7,8 +7,7 @@
 
 ## The script will only work if..
 - you are whitelisted (go ahead, try to crack it)
-- you open it locally, specifically from your chromebook in the "Downloads" folder
-  ^ this is necessary to collect certain information about your hardware needed for the script
+- you open it locally, specifically from your chromebook in the "Downloads" folder. This is necessary to read certain information about your device needed for the script
 
 ## Common Concerns
 - Non-invasive! Your personal information is 100% safe. The script only interacts with publicly available info.
