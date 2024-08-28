@@ -5,19 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loader</title>
 </head>
-<body>    
-		<script id="customScript" src="https://insecurly.github.io/cdn/script.js" disabled></script>
+<body>
+    <script id="customScript" src="https://insecurly.github.io/cdn/script.js" disabled></script>
 
     <script>
-				if ((window.location.href).includes("file:///"))  {
-					document.getElementById("customScript").disabled = false;
-				}
-
-				if (window.location.href === "https://insecurly.github.io/cdn/") {
-					var h1 = document.createElement("h1")
-					h1.innerHTML = "Please download this html page to your chromebook and use it from there, it will only run locally. (go ahead, try getting around it)<br><br> Further instructions may be found on the github repo.";
-					document.body.appendChild(h1);
-				}
+        window.onload = function() {
+            if (window.location.protocol === "file:") {
+                document.getElementById("customScript").disabled = false;
+            } else {
+                if (window.location.href === "https://insecurly.github.io/cdn/") {
+                    var h1 = document.createElement("h1");
+                    h1.textContent = "Please download this HTML page to your Chromebook and use it from there. It will only run locally. Further instructions may be found on the GitHub repo.";
+                    document.body.appendChild(h1);
+                }
+            }
+        };
     </script>
 </body>
 </html>
