@@ -1,24 +1,28 @@
-## JS based locally run webpage which specializes in bypassing securly's monitoring methods. Insecurly aims to provide a safe and virtually unblockable place to play games, watch youtube, and more. (with no chance of being caught if used correctly)
+## Insecurly
 
-# Usage:
+### Overview
+Insecurly is a locally run JavaScript-based webpage designed to bypass monitoring methods like Securly. It provides a safe and virtually unblockable environment for activities such as playing games and watching YouTube.
 
-## Method 1 (website):
-- Go to https://insecurly.github.io/cdn and follow the instructions there
+### Usage
 
-## Method 2 (if the website is blocked):
-- [![Download index.html](https://img.shields.io/badge/Download-index.html-brightgreen)](https://raw.githubusercontent.com/insecurly/cdn/main/index.html) to your chromebook
-- Save it to your downloads folder
-- Open it
+#### Method 1 (Website):
+- Visit [Insecurly Webpage](https://insecurly.github.io/cdn) and follow the provided instructions.
 
-# The script will only work if..
-- you are whitelisted (go ahead, try to crack it)
-- you open it locally, specifically from your chromebook in the "Downloads" folder. This is necessary to read certain information about your device needed for the script
+#### Method 2 (If the Website is Blocked):
+- Download [index.html](https://raw.githubusercontent.com/insecurly/cdn/main/index.html) to your Chromebook.
+- Save it to your Downloads folder.
+- Open the downloaded `index.html` file locally from your Chromebook's Downloads folder.
 
-# How do I get whitelisted?
-- There are two types of whitelists; permanent and temporary. Both can and will be revoked upon misuse of the script.
-- To recieve a *permanant* whitelist, ask the owner of the script to enter a whitelist key. You will have unlimited access to the script on that device.
-- To recieve a *temporary* whitelist, click on the temporary option, and proceed with the verification steps. Once completed, you will have 24 hours of access to the script on that device.
+### Requirements
+- The script only functions if opened locally from the Chromebook's Downloads folder. This is essential for gathering specific device information required by the script.
 
-# Common Concerns
-- Non-invasive! Your personal information is 100% safe. The script only interacts with publicly available info.
-  
+### Whitelisting
+- **Permanent Whitelist**: Obtain a permanent whitelist by requesting the script owner to provide a whitelist key. This grants unlimited access to the script on the specified device.
+- **Temporary Whitelist**: Choose the temporary option and follow verification steps for 24 hours of access. Both types of whitelists are subject to revocation if the script is misused.
+
+### Privacy
+- The script is non-invasive and ensures the safety of personal information, interacting only with publicly available data.
+
+---
+
+This version aims to clarify usage instructions, emphasize safety and privacy, and provide a structured format for easy readability.
