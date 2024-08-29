@@ -3,6 +3,11 @@
 ### Overview
 Insecurly is a locally run JavaScript-based webpage designed to bypass monitoring methods like Securly. It provides a safe and virtually unblockable environment for activities such as playing games and watching YouTube.
 
+### Features
+- Toggle Tab Hiding (anyone watching your screen on securly will see a blank page, so you can watch youtube/play games on the webpage unbothered)
+- Youtube integration (load any youtube video with the link to it, which is inconvinient but due to security reasons it's not possible to load the actual homepage)
+- Snake Game (self explanatory, it took me 5 hours to get it to work. also you can still play snake with tab hiding on ur welcome)
+  
 ### Usage
 
 #### Method 1 (Website):
