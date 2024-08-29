@@ -15,7 +15,7 @@ Insecurly is a locally run JavaScript-based webpage designed to bypass monitorin
 
 ### Requirements
 - The script only functions if opened locally from the Chromebook's Downloads folder. This is essential for gathering specific device information required by the script.
-- You are required to be whitelisted in order to use the script (go ahead, try to crack it! its very secure.)
+- You are required to be whitelisted in order to use the scrip. Go ahead, try to crack it! its very secure :)
 
 ### Whitelisting
 - **Permanent Whitelist**: Obtain a permanent whitelist by requesting the script owner to provide a whitelist key. This grants unlimited access to the script on the specified device.
