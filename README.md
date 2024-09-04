@@ -11,10 +11,10 @@ Insecurly is a locally run JavaScript-based webpage designed to bypass monitorin
 ### Usage
 
 #### Method 1 (Website):
-- Visit [Insecurly Webpage](https://insecurly.github.io/cdn) and follow the provided instructions.
+- Visit the [Insecurly Webpage](https://insecurly.github.io) and follow the provided instructions.
 
 #### Method 2 (If the Website is Blocked):
-- Download [index.html](https://raw.githubusercontent.com/insecurly/cdn/main/index.html) to your Chromebook.
+- Download [index.html](https://raw.githubusercontent.com/insecurly/insecurly.github.io/main/index.html) to your Chromebook.
 - Save it to your Downloads folder.
 - Open the downloaded `index.html` file locally from your Chromebook's Downloads folder.
 
